@@ -21,7 +21,7 @@ function App() {
   };
 
   const asignedFunction = () => {
-    setclicksNumber(1000);
+    setclicksNumber(clicksNumber + 1000);
   };
 
   const asignedSubFunction = () => {
